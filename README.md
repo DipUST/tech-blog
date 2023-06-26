@@ -5,7 +5,7 @@ Tech Blog Template is a basic blogging template based on bootstrap for bootstrap
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://bootcatch.com
+* http://DipUST.com
 
 ## Usage
 
@@ -21,8 +21,8 @@ hope this will help you.
 Dipak Harane
 
 + https://github.com/DipUST
-+ http://bootcatch.com
++ http://DipUST.com
 
 ## Copyright and License
 
-Copyright 2019 [Dipak Harane](https://github.com/DipUST). Code released under the [MIT](https://github.com/DipUST/tech-blog-template/blob/master/LICENSE) license.
+Copyright 2023 [Dipak Harane](https://github.com/DipUST). Code released under the [MIT](https://github.com/DipUST/tech-blog-template/blob/master/LICENSE) license.
