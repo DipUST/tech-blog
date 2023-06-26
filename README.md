@@ -14,15 +14,15 @@ hope this will help you.
 
 ## Clone the Repository -
 
-`git clone https://github.com/ajaymarathe/tech-blog-template.git  `
+`git clone https://github.com/DipUST/tech-blog-template.git  `
 
 ## Author
 
-Ajay Marathe
+Dipak Harane
 
-+ https://github.com/ajaymarathe
++ https://github.com/DipUST
 + http://bootcatch.com
 
 ## Copyright and License
 
-Copyright 2019 [Ajay Marathe](https://github.com/ajaymarathe). Code released under the [MIT](https://github.com/ajaymarathe/tech-blog-template/blob/master/LICENSE) license.
+Copyright 2019 [Dipak Harane](https://github.com/DipUST). Code released under the [MIT](https://github.com/DipUST/tech-blog-template/blob/master/LICENSE) license.
